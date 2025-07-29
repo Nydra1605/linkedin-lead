@@ -1,0 +1,15 @@
+crewai>=0.20.0          # multi‑agent framework
+openai>=1.13            # LLM provider
+pydantic>=2.7           # settings + typed outputs
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+redis>=5.0
+APScheduler>=3.10
+httpx>=0.27
+python-dotenv>=1.0
+loguru>=0.7
+requests-oauthlib>=1.3
+linkedin-api==2.0.0     # community SDK (optional)
+scikit-learn>=1.5
+xgboost>=2.0
+crewAI-tools>=0.8       # official helper tools
